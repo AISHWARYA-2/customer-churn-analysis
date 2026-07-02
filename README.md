@@ -23,4 +23,6 @@ IBM Telco Customer Churn Dataset
 Random Forest Accuracy: 82%
 
 ## Visualizations
-(Add screenshots here)
+
+<img width="1320" height="649" alt="CustomerChurnAnalysis" src="https://github.com/user-attachments/assets/af2eb636-1efc-4370-9030-34fa982f3a53" />
+
